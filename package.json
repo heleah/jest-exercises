@@ -28,5 +28,8 @@
     "github-current-user": "^2.5.0",
     "ncp": "^2.0.0",
     "prompt": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
   }
 }
